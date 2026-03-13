@@ -1,0 +1,295 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\patterns\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:patterns\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AC8018-E2B6-4BB7-8C50-7A2D689A4CB3}|..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj|c:\\users\\user\\desktop\\onlinestoreprojecttests\\onlinestoreprojecttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AC8018-E2B6-4BB7-8C50-7A2D689A4CB3}|..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj|c:\\users\\user\\desktop\\onlinestoreprojecttests\\orderbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|C:\\Users\\user\\Desktop\\OnlineStoreProject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\patterns\\iorderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:patterns\\iorderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\patterns\\pricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:patterns\\pricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AC8018-E2B6-4BB7-8C50-7A2D689A4CB3}|..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj|c:\\users\\user\\desktop\\onlinestoreprojecttests\\cartiteratortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\patterns\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:patterns\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\patterns\\cartiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:patterns\\cartiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\core\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:core\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\core\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:core\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68AC8018-E2B6-4BB7-8C50-7A2D689A4CB3}|..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj|c:\\users\\user\\desktop\\onlinestoreprojecttests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\IIterator.cs",
+              "RelativeDocumentMoniker": "Patterns\\IIterator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\IIterator.cs",
+              "RelativeToolTip": "Patterns\\IIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:34:48.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\IOrderBuilder.cs",
+              "RelativeDocumentMoniker": "Patterns\\IOrderBuilder.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\IOrderBuilder.cs",
+              "RelativeToolTip": "Patterns\\IOrderBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:35:23.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\OrderBuilder.cs",
+              "RelativeDocumentMoniker": "Patterns\\OrderBuilder.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\OrderBuilder.cs",
+              "RelativeToolTip": "Patterns\\OrderBuilder.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:35:44.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAtwF8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:38:34.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CartIteratorTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\CartIteratorTests.cs",
+              "RelativeDocumentMoniker": "..\\OnlineStoreProjectTests\\CartIteratorTests.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\CartIteratorTests.cs",
+              "RelativeToolTip": "..\\OnlineStoreProjectTests\\CartIteratorTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:56:34.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderBuilderTests.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OrderBuilderTests.cs",
+              "RelativeDocumentMoniker": "..\\OnlineStoreProjectTests\\OrderBuilderTests.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OrderBuilderTests.cs",
+              "RelativeToolTip": "..\\OnlineStoreProjectTests\\OrderBuilderTests.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAA5wF4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:56:52.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T08:05:44.77Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineStoreProjectTests.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj",
+              "RelativeDocumentMoniker": "..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj",
+              "RelativeToolTip": "..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T07:59:19.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PricingStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\PricingStrategy.cs",
+              "RelativeDocumentMoniker": "Patterns\\PricingStrategy.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\PricingStrategy.cs",
+              "RelativeToolTip": "Patterns\\PricingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:25:12.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:33:51.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartIterator.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\CartIterator.cs",
+              "RelativeDocumentMoniker": "Patterns\\CartIterator.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\CartIterator.cs",
+              "RelativeToolTip": "Patterns\\CartIterator.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:35:07.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Product.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Product.cs",
+              "RelativeToolTip": "Core\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:30:08.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Order.cs",
+              "RelativeDocumentMoniker": "Core\\Order.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Order.cs",
+              "RelativeToolTip": "Core\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:30:54.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowNEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:39:01.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\CartItem.cs",
+              "RelativeDocumentMoniker": "Core\\CartItem.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\CartItem.cs",
+              "RelativeToolTip": "Core\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:30:30.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Cart.cs",
+              "RelativeDocumentMoniker": "Core\\Cart.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Cart.cs",
+              "RelativeToolTip": "Core\\Cart.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:30:41.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\Usings.cs",
+              "RelativeDocumentMoniker": "..\\OnlineStoreProjectTests\\Usings.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\Usings.cs",
+              "RelativeToolTip": "..\\OnlineStoreProjectTests\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:54:11.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

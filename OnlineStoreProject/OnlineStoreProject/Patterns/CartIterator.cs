@@ -20,7 +20,9 @@ namespace OnlineStoreProject.Patterns
 
         public CartItem Next()
         {
-            return _items[_position++];
+            var item = _items[_position];
+            _position++;
+            return item;
         }
     }
 }

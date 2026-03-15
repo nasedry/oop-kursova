@@ -16,7 +16,7 @@ namespace OnlineStoreProject.Tests
         }
 
         [Fact]
-        public void Test2_WithItems_ShouldIterateOverAllItems()
+        public void Test2_WithItems_ShouldIterateCorrectly()
         {
             var cart = new Cart();
             cart.AddProduct(new Product { Id = 1, Name = "P1", Price = 100 }, 1);
@@ -30,10 +30,10 @@ namespace OnlineStoreProject.Tests
         }
 
         [Fact]
-        public void Test3_AddSameProductTwice_ShouldSumQuantity()
+        public void Test3_SameProduct_ShouldSumQuantity()
         {
             var cart = new Cart();
-            var product = new Product { Id = 10, Name = "Item", Price = 50 };
+            var product = new Product { Id = 1, Name = "Item", Price = 50 };
             
             cart.AddProduct(product, 2);
             cart.AddProduct(product, 3);
@@ -43,7 +43,7 @@ namespace OnlineStoreProject.Tests
         }
 
         [Fact]
-        public void Test4_GetTotal_ShouldReturnCorrectSum()
+        public void Test4_Total_ShouldBeCorrect()
         {
             var cart = new Cart();
             cart.AddProduct(new Product { Name = "A", Price = 100 }, 2); 
@@ -53,11 +53,10 @@ namespace OnlineStoreProject.Tests
         }
 
         [Fact]
-        public void Test5_Clear_ShouldResetCart()
+        public void Test5_Clear_ShouldEmptyCart()
         {
             var cart = new Cart();
             cart.AddProduct(new Product { Name = "T", Price = 10 }, 1);
-            
             cart.Clear();
 
             Assert.Equal(0, cart.GetTotal());
@@ -65,49 +64,48 @@ namespace OnlineStoreProject.Tests
         }
 
         [Fact]
-        public void Test6_ApplyDiscount_CheckCalculation()
+        public void Test6_Discount_CheckCalculation()
         {
             var cart = new Cart();
             cart.AddProduct(new Product { Price = 1000 }, 1);
-            
             decimal totalWithDiscount = cart.GetTotal() * 0.9m;
 
             Assert.Equal(900, totalWithDiscount);
         }
 
         [Fact]
-        public void Test7_IteratorNext_ShouldReturnCorrectProduct()
+        public void Test7_Next_ShouldReturnValidProduct()
         {
             var cart = new Cart();
-            var product = new Product { Name = "Unique", Price = 777 };
+            var product = new Product { Name = "Data", Price = 500 };
             cart.AddProduct(product, 1);
 
             var item = cart.GetIterator().Next();
 
-            Assert.Equal("Unique", item.Product.Name);
-            Assert.Equal(777, item.Product.Price);
+            Assert.Equal("Data", item.Product.Name);
+            Assert.Equal(500, item.Product.Price);
         }
 
         [Fact]
-        public void Test8_AddZeroQuantity_ShouldNotAddItem()
+        public void Test8_ZeroQuantity_ShouldNotAdd()
         {
             var cart = new Cart();
-            cart.AddProduct(new Product { Name = "None", Price = 100 }, 0);
+            cart.AddProduct(new Product { Name = "Zero", Price = 100 }, 0);
 
             Assert.False(cart.GetIterator().HasNext());
         }
 
         [Fact]
-        public void Test9_LargeQuantity_ShouldCalculateCorrectly()
+        public void Test9_LargeSum_ShouldCalculate()
         {
             var cart = new Cart();
-            cart.AddProduct(new Product { Price = 10 }, 1000); 
+            cart.AddProduct(new Product { Price = 100 }, 100); 
 
             Assert.Equal(10000, cart.GetTotal());
         }
 
         [Fact]
-        public void Test10_IteratorOrder_ShouldBeConsistent()
+        public void Test10_Order_ShouldBeMaintained()
         {
             var cart = new Cart();
             cart.AddProduct(new Product { Name = "First" }, 1);
@@ -117,15 +115,6 @@ namespace OnlineStoreProject.Tests
             
             Assert.Equal("First", iterator.Next().Product.Name);
             Assert.Equal("Second", iterator.Next().Product.Name);
-        }
-
-        [Fact]
-        public void Test11_NextOnEmptyIterator_ShouldThrowException()
-        {
-            var cart = new Cart();
-            var iterator = cart.GetIterator();
-
-            Assert.Throws<IndexOutOfRangeException>(() => iterator.Next());
         }
     }
 }

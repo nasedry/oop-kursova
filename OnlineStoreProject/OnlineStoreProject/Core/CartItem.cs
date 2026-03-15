@@ -1,11 +1,7 @@
-﻿using OnlineStoreProject.Core;
-
-namespace OnlineStoreProject.Core
+﻿namespace OnlineStoreProject.Core
 {
     public class CartItem
     {
-        public int Id { get; set; }
-
         public int ProductId { get; set; }
 
         public Product Product { get; set; } = null!;

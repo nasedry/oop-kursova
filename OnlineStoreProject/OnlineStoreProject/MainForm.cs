@@ -13,7 +13,6 @@ namespace OnlineStoreProject
         private ApplicationDbContext _dbContext;
         private Cart _cart;
 
-
         public MainForm()
         {
             InitializeComponent();
@@ -32,17 +31,23 @@ namespace OnlineStoreProject
             var products = _dbContext.Products.ToList();
             _dgvProducts.DataSource = products;
 
-            _dgvProducts.Columns["Id"].Visible = false;
-            _dgvProducts.Columns["Name"].HeaderText = "Назва товару";
-            _dgvProducts.Columns["Name"].Width = 200;
-            _dgvProducts.Columns["Price"].HeaderText = "Ціна (грн)";
+            if (_dgvProducts.Columns["Id"] != null) _dgvProducts.Columns["Id"].Visible = false;
+            if (_dgvProducts.Columns["Name"] != null)
+            {
+                _dgvProducts.Columns["Name"].HeaderText = "РќР°Р·РІР° С‚РѕРІР°СЂСѓ";
+                _dgvProducts.Columns["Name"].Width = 200;
+            }
+            if (_dgvProducts.Columns["Price"] != null)
+            {
+                _dgvProducts.Columns["Price"].HeaderText = "Р¦С–РЅР° (РіСЂРЅ)";
+            }
         }
 
         private void BtnAddToCart_Click(object sender, EventArgs e)
         {
             if (_dgvProducts.CurrentRow == null)
             {
-                MessageBox.Show("Оберіть товар зі списку!");
+                MessageBox.Show("РћР±РµСЂС–С‚СЊ С‚РѕРІР°СЂ Р·С– СЃРїРёСЃРєСѓ!");
                 return;
             }
 
@@ -66,10 +71,10 @@ namespace OnlineStoreProject
                 decimal itemTotal = item.Product.Price * item.Quantity;
                 totalSum += itemTotal;
 
-                _lstCart.Items.Add($"{item.Product.Name} | {item.Quantity} шт. | {itemTotal} грн");
+                _lstCart.Items.Add($"{item.Product.Name} | {item.Quantity} С€С‚. | {itemTotal} РіСЂРЅ");
             }
 
-            _lblTotal.Text = $"Загальна сума: {totalSum} грн";
+            _lblTotal.Text = $"Р—Р°РіР°Р»СЊРЅР° СЃСѓРјР°: {totalSum} РіСЂРЅ";
         }
 
         private void BtnCheckout_Click(object sender, EventArgs e)
@@ -81,11 +86,11 @@ namespace OnlineStoreProject
                 PricingStrategy strategy;
                 if (chkDiscount.Checked)
                 {
-                    strategy = new PercentageDiscountStrategy(10); // 10% знижки
+                    strategy = new PercentageDiscountStrategy(10); // 10% Р·РЅРёР¶РєР°
                 }
                 else
                 {
-                    strategy = new NoDiscountStrategy(); // Без знижки
+                    strategy = new NoDiscountStrategy(); // Р‘РµР· Р·РЅРёР¶РєРё
                 }
 
                 Order newOrder = builder
@@ -99,10 +104,10 @@ namespace OnlineStoreProject
                 _dbContext.SaveChanges();
 
                 MessageBox.Show(
-                    $"Замовлення №{newOrder.Id} успішно оформлено!\n" +
-                    $"Клієнт: {newOrder.CustomerName}\n" +
-                    $"Сума до сплати: {newOrder.TotalPrice} грн.",
-                    "Успіх", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    $"Р—Р°РјРѕРІР»РµРЅРЅСЏ в„–{newOrder.Id} СѓСЃРїС–С€РЅРѕ РѕС„РѕСЂРјР»РµРЅРѕ!\n" +
+                    $"РљР»С–С”РЅС‚: {newOrder.CustomerName}\n" +
+                    $"РЎСѓРјР° РґРѕ СЃРїР»Р°С‚Рё: {newOrder.TotalPrice} РіСЂРЅ.",
+                    "РЈСЃРїС–С…", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 _cart.Clear();
                 UpdateCartUI();
@@ -112,7 +117,7 @@ namespace OnlineStoreProject
             }
             catch (Exception ex)
             {
-                MessageBox.Show(ex.Message, "Помилка оформлення", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show(ex.Message, "РџРѕРјРёР»РєР° РѕС„РѕСЂРјР»РµРЅРЅСЏ", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
         }
 
@@ -122,20 +127,20 @@ namespace OnlineStoreProject
 
             if (orders.Count == 0)
             {
-                MessageBox.Show("Історія замовлень порожня.", "Історія");
+                MessageBox.Show("Р†СЃС‚РѕСЂС–СЏ Р·Р°РјРѕРІР»РµРЅСЊ РїРѕСЂРѕР¶РЅСЏ.", "Р†СЃС‚РѕСЂС–СЏ");
                 return;
             }
 
-            string history = "Ваші попередні замовлення:\n\n";
+            string history = "Р’Р°С€С– РїРѕРїРµСЂРµРґРЅС– Р·Р°РјРѕРІР»РµРЅРЅСЏ:\n\n";
             foreach (var order in orders)
             {
-                history += $"Замовлення №{order.Id} від {order.OrderDate:dd.MM.yyyy HH:mm}\n";
-                history += $"Клієнт: {order.CustomerName} ({order.Address})\n";
-                history += $"Сума: {order.TotalPrice} грн\n";
+                history += $"Р—Р°РјРѕРІР»РµРЅРЅСЏ в„–{order.Id} РІС–Рґ {order.OrderDate:dd.MM.yyyy HH:mm}\n";
+                history += $"РљР»С–С”РЅС‚: {order.CustomerName} ({order.Address})\n";
+                history += $"РЎСѓРјР°: {order.TotalPrice} РіСЂРЅ\n";
                 history += "---------------------------\n";
             }
 
-            MessageBox.Show(history, "Історія замовлень", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            MessageBox.Show(history, "Р†СЃС‚РѕСЂС–СЏ Р·Р°РјРѕРІР»РµРЅСЊ", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void BtnClearCart_Click(object sender, EventArgs e)

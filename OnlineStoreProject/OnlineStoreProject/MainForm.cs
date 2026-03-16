@@ -45,17 +45,25 @@ namespace OnlineStoreProject
 
         private void BtnAddToCart_Click(object sender, EventArgs e)
         {
-            if (_dgvProducts.CurrentRow == null)
+            if (_dgvProducts.SelectedRows.Count > 0)
             {
-                MessageBox.Show("Оберіть товар зі списку!");
-                return;
+                var product = _dgvProducts.SelectedRows[0].DataBoundItem as Product;
+                int quantity = (int)_numQuantity.Value;
+
+                if (product != null)
+                {
+                    // Створюємо айтем кошика ТІЛЬКИ через ID, 
+                    // щоб база не думала, що ми хочемо додати новий товар
+                    _cart.AddProduct(product, quantity);
+                    
+                    UpdateCartUI();
+                    MessageBox.Show($"Додано: {product.Name} ({quantity} шт.)");
+                }
             }
-
-            var selectedProduct = (Product)_dgvProducts.CurrentRow.DataBoundItem;
-            int quantity = (int)_numQuantity.Value;
-
-            _cart.AddProduct(selectedProduct, quantity);
-            UpdateCartUI();
+            else
+            {
+                MessageBox.Show("Будь ласка, виберіть товар у таблиці.");
+            }
         }
 
         private void UpdateCartUI()

@@ -1,5 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using OnlineStoreProject.Core;
+using System;
+using System.IO;
 
 namespace OnlineStoreProject.Data
 {
@@ -11,18 +13,22 @@ namespace OnlineStoreProject.Data
 
         public ApplicationDbContext()
         {
+            // Цей метод перевіряє, чи є база, і створює її разом з таблицями
             Database.EnsureCreated();
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Data Source=store.db");
+            // Вказуємо точний шлях: папка програми + ім'я файлу store.db
+            string dbPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "store.db");
+            optionsBuilder.UseSqlite($"Data Source={dbPath}");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
 
+            // Початкові дані (Seed Data)
             modelBuilder.Entity<Product>().HasData(
                 new Product { Id = 1, Name = "Ноутбук ASUS ROG", Price = 45000m },
                 new Product { Id = 2, Name = "Мишка Logitech G Pro", Price = 3500m },

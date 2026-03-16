@@ -26,7 +26,6 @@ namespace OnlineStoreProject.Patterns
             _pricingStrategy = strategy;
             return this;
         }
-
         public IOrderBuilder AddItemsFromCart(IIterator<CartItem> cartIterator)
         {
             decimal rawTotal = 0;
@@ -34,7 +33,12 @@ namespace OnlineStoreProject.Patterns
             while (cartIterator.HasNext())
             {
                 var item = cartIterator.Next();
-                var orderItem = new CartItem { ProductId = item.ProductId, Quantity = item.Quantity };
+                // ВАЖЛИВО: Передаємо тільки ProductId, а не весь об'єкт Product
+                var orderItem = new CartItem 
+                { 
+                    ProductId = item.ProductId, 
+                    Quantity = item.Quantity 
+                };
                 _order.Items.Add(orderItem);
 
                 rawTotal += item.Product.Price * item.Quantity;
@@ -43,7 +47,6 @@ namespace OnlineStoreProject.Patterns
             _order.TotalPrice = rawTotal;
             return this;
         }
-
         public Order Build()
         {
             if (string.IsNullOrWhiteSpace(_order.CustomerName))

@@ -1,70 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\",
+  "WorkspaceRootPath": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\patterns\\iorderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:patterns\\iorderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\patterns\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:patterns\\orderbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\IOrderBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patterns\\IOrderBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68AC8018-E2B6-4BB7-8C50-7A2D689A4CB3}|..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj|c:\\users\\user\\desktop\\onlinestoreprojecttests\\onlinestoreprojecttests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\IIterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patterns\\IIterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68AC8018-E2B6-4BB7-8C50-7A2D689A4CB3}|..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj|c:\\users\\user\\desktop\\onlinestoreprojecttests\\orderbuildertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\OrderBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patterns\\OrderBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|C:\\Users\\user\\Desktop\\OnlineStoreProject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\CartIteratorTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\patterns\\pricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:patterns\\pricingstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OrderBuilderTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68AC8018-E2B6-4BB7-8C50-7A2D689A4CB3}|..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj|c:\\users\\user\\desktop\\onlinestoreprojecttests\\cartiteratortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\PricingStrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patterns\\PricingStrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\patterns\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:patterns\\iiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\CartIterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Patterns\\CartIterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\patterns\\cartiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:patterns\\cartiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:core\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:core\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MainForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\core\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:core\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|c:\\users\\user\\desktop\\onlinestoreproject\\core\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DE6105D-FB2D-4981-8A36-B8FCFE5818BC}|OnlineStoreProject.csproj|solutionrelative:core\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68AC8018-E2B6-4BB7-8C50-7A2D689A4CB3}|..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj|c:\\users\\user\\desktop\\onlinestoreprojecttests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\Usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,27 +74,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IIterator.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\IIterator.cs",
-              "RelativeDocumentMoniker": "Patterns\\IIterator.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\IIterator.cs",
-              "RelativeToolTip": "Patterns\\IIterator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T07:34:48.369Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "IOrderBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\IOrderBuilder.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\IOrderBuilder.cs",
               "RelativeDocumentMoniker": "Patterns\\IOrderBuilder.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\IOrderBuilder.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\IOrderBuilder.cs",
               "RelativeToolTip": "Patterns\\IOrderBuilder.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,24 +99,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "OrderBuilder.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\OrderBuilder.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\OrderBuilder.cs",
               "RelativeDocumentMoniker": "Patterns\\OrderBuilder.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\OrderBuilder.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\OrderBuilder.cs",
               "RelativeToolTip": "Patterns\\OrderBuilder.cs",
               "ViewState": "AgIAACkAAAAAAAAAAAAIwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T07:35:44.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T07:35:44.994Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
               "ViewState": "AgIAAE4AAAAAAAAAAAAtwF8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,86 +124,88 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "CartIteratorTests.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\CartIteratorTests.cs",
-              "RelativeDocumentMoniker": "..\\OnlineStoreProjectTests\\CartIteratorTests.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\CartIteratorTests.cs",
-              "RelativeToolTip": "..\\OnlineStoreProjectTests\\CartIteratorTests.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T07:56:34.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "OrderBuilderTests.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OrderBuilderTests.cs",
-              "RelativeDocumentMoniker": "..\\OnlineStoreProjectTests\\OrderBuilderTests.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OrderBuilderTests.cs",
-              "RelativeToolTip": "..\\OnlineStoreProjectTests\\OrderBuilderTests.cs",
               "ViewState": "AgIAAFUAAAAAAAAAAAA5wF4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T07:56:52.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.cs [Design]",
-              "RelativeToolTip": "MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T08:05:44.77Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OnlineStoreProjectTests.csproj",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj",
-              "RelativeDocumentMoniker": "..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj",
-              "RelativeToolTip": "..\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-05T07:59:19.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "PricingStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\PricingStrategy.cs",
-              "RelativeDocumentMoniker": "Patterns\\PricingStrategy.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\PricingStrategy.cs",
-              "RelativeToolTip": "Patterns\\PricingStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T10:25:12.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T07:56:52.576Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T07:33:51.14Z"
+              "WhenOpened": "2026-03-05T08:05:44.77Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:33:51.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IIterator.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\IIterator.cs",
+              "RelativeDocumentMoniker": "Patterns\\IIterator.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\IIterator.cs",
+              "RelativeToolTip": "Patterns\\IIterator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T07:34:48.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OnlineStoreProjectTests.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj",
+              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\OnlineStoreProjectTests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-05T07:59:19.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PricingStrategy.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\PricingStrategy.cs",
+              "RelativeDocumentMoniker": "Patterns\\PricingStrategy.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\PricingStrategy.cs",
+              "RelativeToolTip": "Patterns\\PricingStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T10:25:12.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CartIterator.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\CartIterator.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\CartIterator.cs",
               "RelativeDocumentMoniker": "Patterns\\CartIterator.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Patterns\\CartIterator.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Patterns\\CartIterator.cs",
               "RelativeToolTip": "Patterns\\CartIterator.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,11 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Product.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\Product.cs",
               "RelativeDocumentMoniker": "Core\\Product.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Product.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\Product.cs",
               "RelativeToolTip": "Core\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,11 +225,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Order.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\Order.cs",
               "RelativeDocumentMoniker": "Core\\Order.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Order.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\Order.cs",
               "RelativeToolTip": "Core\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -240,24 +237,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "MainForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\MainForm.Designer.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\MainForm.Designer.cs",
               "RelativeToolTip": "MainForm.Designer.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAAowNEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-05T07:39:01.975Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-05T07:39:01.975Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\CartItem.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\CartItem.cs",
               "RelativeDocumentMoniker": "Core\\CartItem.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\CartItem.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\CartItem.cs",
               "RelativeToolTip": "Core\\CartItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,9 +263,9 @@
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Cart.cs",
+              "DocumentMoniker": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\Cart.cs",
               "RelativeDocumentMoniker": "Core\\Cart.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProject\\Core\\Cart.cs",
+              "ToolTip": "D:\\oop-kursova\\oop-kursova\\OnlineStoreProject\\OnlineStoreProject\\Core\\Cart.cs",
               "RelativeToolTip": "Core\\Cart.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,9 +276,7 @@
               "DocumentIndex": 16,
               "Title": "Usings.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\Usings.cs",
-              "RelativeDocumentMoniker": "..\\OnlineStoreProjectTests\\Usings.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\OnlineStoreProjectTests\\Usings.cs",
-              "RelativeToolTip": "..\\OnlineStoreProjectTests\\Usings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-05T07:54:11.162Z"
